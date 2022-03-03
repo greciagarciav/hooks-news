@@ -1,1 +1,1 @@
-# Buscador
+# Buscador de noticias
